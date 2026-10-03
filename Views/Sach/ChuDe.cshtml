@@ -1,0 +1,55 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@using Webbansach.Models
+@model List<ChuDe>
+
+@{
+    ViewData["Title"] = "Chủ đề sách";
+}
+
+<style>
+    th, td {
+        text-align: center;
+        vertical-align: middle;
+    }
+</style>
+
+<h2 class="text-center my-3">Chủ đề sách</h2>
+
+<!-- Nút Thêm sản phẩm mới -->
+<a asp-action="ChuDeEdit" class="btn btn-primary mb-3">Thêm chủ đề mới</a>
+
+@if (Model != null && Model.Any())
+{
+    <table class="table table-bordered align-middle">
+        <thead class="table-light">
+            <tr>
+                <th style="width: 15%;">MCD</th>
+                <th style="width: 55%;">Tên chủ đề</th>
+                <th style="width: 30%;">Thao tác</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (ChuDe cd in Model)
+            {
+                <tr>
+                    <td>@cd.Mcd</td>
+                    <td class="text-start">@cd.TenChuDe</td>
+                    <td>
+                        <a asp-action="ChuDeEdit" asp-route-id="@cd.Mcd" class="btn btn-warning btn-sm me-1">Sửa</a>
+                        <a asp-action="ChuDeDelete" asp-route-id="@cd.Mcd" class="btn btn-danger btn-sm" onclick="return confirm('Bạn có chắc chắn muốn xóa chủ đề này?');">Xóa</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <div class="alert alert-info text-center">
+        Chưa có chủ đề nào trong hệ thống.
+    </div>
+}

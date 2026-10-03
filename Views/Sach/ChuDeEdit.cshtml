@@ -1,0 +1,39 @@
+﻿@using Webbansach.Models
+@model ChuDe
+
+@{
+    ViewData["Title"] = "Chỉnh sửa chủ đề";
+}
+
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <h2 class="text-center my-3">Cập nhật thông tin chủ đề</h2>
+
+        <form asp-action="ChuDeEdit" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+            <div class="mb-3">
+                <label asp-for="Mcd" class="form-label">Mã chủ đề</label>
+                <input asp-for="Mcd" class="form-control" readonly />
+                <span asp-validation-for="Mcd" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="TenChuDe" class="form-label">Tên chủ đề</label>
+                <input asp-for="TenChuDe" class="form-control" placeholder="Nhập tên chủ đề mới..." />
+                <span asp-validation-for="TenChuDe" class="text-danger"></span>
+            </div>
+
+            <div class="d-flex justify-content-between mt-4">
+                <a asp-action="ChuDe" class="btn btn-secondary">Quay lại danh sách</a>
+                <button type="submit" class="btn btn-warning">Cập nhật</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

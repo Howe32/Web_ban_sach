@@ -1,0 +1,196 @@
+wwwroot\css\site.css
+wwwroot\favicon.ico
+wwwroot\images\bg_menu_top.jpg
+wwwroot\images\Cancel.jpg
+wwwroot\images\Chot.jpg
+wwwroot\images\damsen.gif
+wwwroot\images\Delete.jpg
+wwwroot\images\Dongho.swf
+wwwroot\images\Edit.png
+wwwroot\images\Fristi.gif
+wwwroot\images\Giohang.gif
+wwwroot\images\heart.jpg
+wwwroot\images\icon_list.jpg
+wwwroot\images\MISC26.ICO
+wwwroot\images\MISC27.ICO
+wwwroot\images\muitendo.gif
+wwwroot\images\nenxanh_cottrai.gif
+wwwroot\images\Nen_banner.jpg
+wwwroot\images\new.jpg
+wwwroot\images\nut_chonmua.gif
+wwwroot\images\Omo.gif
+wwwroot\images\QC01.gif
+wwwroot\images\QC02.gif
+wwwroot\images\QC03.gif
+wwwroot\images\QC04.gif
+wwwroot\images\QC_01.gif
+wwwroot\images\QC_02.gif
+wwwroot\images\QC_04.gif
+wwwroot\images\Save.jpg
+wwwroot\images\Sotien.gif
+wwwroot\images\Thoitrang.gif
+wwwroot\images\tittle_sachmoi.gif
+wwwroot\images\Trungthu.gif
+wwwroot\images\Upload\01.jpg
+wwwroot\images\Upload\130318.jpg
+wwwroot\images\Upload\130499.jpg
+wwwroot\images\Upload\Autumn Leaves.jpg
+wwwroot\images\Upload\Gt_Thcb.jpg
+wwwroot\images\Upload\HaNoiCom.png
+wwwroot\images\Upload\Humpback Whale.jpg
+wwwroot\images\Upload\Kt.jpg
+wwwroot\images\Upload\KT0001.jpg
+wwwroot\images\Upload\KT0002.jpg
+wwwroot\images\Upload\KT0003.jpg
+wwwroot\images\Upload\KT0004.jpg
+wwwroot\images\Upload\KT0005.jpg
+wwwroot\images\Upload\KT0006.jpg
+wwwroot\images\Upload\KT0007.jpg
+wwwroot\images\Upload\KT0008.jpg
+wwwroot\images\Upload\KT0009.jpg
+wwwroot\images\Upload\LTWeb2005.jpg
+wwwroot\images\Upload\Me.jpg
+wwwroot\images\Upload\Oracle.jpg
+wwwroot\images\Upload\Oryx Antelope.jpg
+wwwroot\images\Upload\P0001.jpg
+wwwroot\images\Upload\P_0001.jpg
+wwwroot\images\Upload\QC_BEN.png
+wwwroot\images\Upload\QC_CBV.png
+wwwroot\images\Upload\QC_LT.png
+wwwroot\images\Upload\Sample.jpg
+wwwroot\images\Upload\TH001.jpg
+wwwroot\images\Upload\TH002.jpg
+wwwroot\images\Upload\TH003.jpg
+wwwroot\images\Upload\TH004.jpg
+wwwroot\images\Upload\TH005.jpg
+wwwroot\images\Upload\TH006.jpg
+wwwroot\images\Upload\TH007.jpg
+wwwroot\images\Upload\TH008.jpg
+wwwroot\images\Upload\THCB.jpg
+wwwroot\images\Upload\TiengAnh01.jpg
+wwwroot\images\xehang.gif
+wwwroot\js\site.js
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\dist\jquery.slim.js
+wwwroot\lib\jquery\dist\jquery.slim.min.js
+wwwroot\lib\jquery\dist\jquery.slim.min.map
+wwwroot\lib\jquery\LICENSE.txt
+D:\New Folder\Webbansach\Webbansach\wwwroot\css\site.css
+D:\New Folder\Webbansach\Webbansach\wwwroot\favicon.ico
+D:\New Folder\Webbansach\Webbansach\wwwroot\images\MISC26.ICO
+D:\New Folder\Webbansach\Webbansach\wwwroot\images\MISC27.ICO
+D:\New Folder\Webbansach\Webbansach\wwwroot\js\site.js
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\jquery-validation\dist\additional-methods.js
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\jquery-validation\LICENSE.md
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\jquery\dist\jquery.js
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\jquery\dist\jquery.min.js
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\jquery\dist\jquery.min.map
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\jquery\dist\jquery.slim.js
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\jquery\dist\jquery.slim.min.js
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\jquery\dist\jquery.slim.min.map
+D:\New Folder\Webbansach\Webbansach\wwwroot\lib\jquery\LICENSE.txt
